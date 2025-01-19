@@ -1,5 +1,3 @@
-Here’s a polished README for your **SMS Spam Classifier** project:
-
 ---
 
 # **SMS Spam Classifier**
@@ -15,8 +13,7 @@ This project is a machine learning application that classifies SMS messages as e
 - [Deployment](#deployment)
 - [Live Demo](#live-demo)
 - [Screenshots](#screenshots)
-- [Acknowledgments](#acknowledgments)
-
+- 
 ---
 
 ## **Features**
@@ -78,25 +75,15 @@ The application is deployed on [Render](https://render.com). Follow these steps 
 ---
 
 ## **Live Demo**
+
 Access the deployed application at:  
-[**Spam Classifier on Render**](https://spam-classifier-d15y.onrender.com)
+[**Spam Classifier on Render**](https://spam-classifier-ls1r.onrender.com)
 
 ---
 
 ## **Screenshots**
 
-**Deployment Settings**  
-![Render Settings Screenshot](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/7d0493d1-7e0a-46cb-b15e-e3f45f006d1d)
-
 **Application Output**  
-![App Output Screenshot](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/df102d55-1e43-482f-b283-c89154a51169)
+![Application output]("C:\Users\anubh\OneDrive\Pictures\Screenshots\Screenshot 2025-01-19 202623.png")
 
 ---
-
-## **Acknowledgments**
-This project was built with guidance from **Master_iNeuron**. The steps outlined ensure a clean development process and smooth deployment to production.
-
----
-
-## **Hurray! Enjoy the Code 🚀**
-
