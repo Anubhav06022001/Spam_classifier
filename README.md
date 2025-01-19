@@ -4,6 +4,20 @@
 
 This project is a machine learning application that classifies SMS messages as either spam or not spam. It provides an interactive web-based interface for users to input a message and check its classification. The app is deployed on Render for easy access.
 
+The repository contains the following files:
+
+- **app.py**: The main Python script that runs the Flask web application. This script handles user input, processes it, and returns predictions.
+  
+- **spam_classifier.csv**: The dataset used for training the spam classification model. It contains labeled SMS messages (spam or not spam).
+
+- **spam_classifier.ipynb**: A Jupyter Notebook that contains the Exploratory Data Analysis (EDA) and preprocessing steps for the dataset. This notebook includes:
+  - Data cleaning
+  - Visualization of insights
+  - Feature extraction
+  - Model training and evaluation
+
+---
+
 ## **Table of Contents**
 - [Features](#features)
 - [Setup Instructions](#setup-instructions)
